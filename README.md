@@ -4,3 +4,4 @@ Repositório destinado a criação do projeto final da cadeira de laboratório d
 
 ## Colaboradores
 Luiz Ricardo B. T. Macedo
+Jose Luis C Araujo
